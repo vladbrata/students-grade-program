@@ -1,0 +1,5 @@
+Mario Sandru, 10, 9, 8
+Lazar Alexandru, 10, 2
+Vlad Brata, 3, 4, 5, 6
+Letitia Costan, 10, 10, 10
+Eduard Foltut, 1, 1, 1, 1, 1, 1, 1, 1, 1

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\CSharpProjects\\school-grade-database\\grading-program\\grading-program.csproj",
+      "projectUniqueName": "D:\\Coding\\CSharpProjects\\students-grade-program\\grading-program.csproj",
       "projectName": "grading-program",
-      "projectPath": "D:\\Coding\\CSharpProjects\\school-grade-database\\grading-program\\grading-program.csproj",
+      "projectPath": "D:\\Coding\\CSharpProjects\\students-grade-program\\grading-program.csproj",
       "packagesPath": "C:\\Users\\vladb\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\CSharpProjects\\school-grade-database\\grading-program\\obj\\",
+      "outputPath": "D:\\Coding\\CSharpProjects\\students-grade-program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vladb\\AppData\\Roaming\\NuGet\\NuGet.Config",
