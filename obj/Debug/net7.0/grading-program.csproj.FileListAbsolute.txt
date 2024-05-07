@@ -1,0 +1,14 @@
+D:\Coding\CSharpProjects\school-grade-database\grading-program\bin\Debug\net7.0\grading-program.exe
+D:\Coding\CSharpProjects\school-grade-database\grading-program\bin\Debug\net7.0\grading-program.deps.json
+D:\Coding\CSharpProjects\school-grade-database\grading-program\bin\Debug\net7.0\grading-program.runtimeconfig.json
+D:\Coding\CSharpProjects\school-grade-database\grading-program\bin\Debug\net7.0\grading-program.dll
+D:\Coding\CSharpProjects\school-grade-database\grading-program\bin\Debug\net7.0\grading-program.pdb
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\grading-program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\grading-program.AssemblyInfoInputs.cache
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\grading-program.AssemblyInfo.cs
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\grading-program.csproj.CoreCompileInputs.cache
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\grading-program.dll
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\refint\grading-program.dll
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\grading-program.pdb
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\grading-program.genruntimeconfig.cache
+D:\Coding\CSharpProjects\school-grade-database\grading-program\obj\Debug\net7.0\ref\grading-program.dll
